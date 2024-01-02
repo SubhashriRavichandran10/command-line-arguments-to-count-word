@@ -55,9 +55,6 @@ print("Word Count in File=",count)
 
 ![Screenshot 2024-01-02 174223](https://github.com/SubhashriRavichandran10/command-line-arguments-to-count-word/assets/145743413/2e19adb1-40a0-4ec8-8be5-5c5aadea0231)
 
-
-
-
 ![Screenshot 2024-01-02 174233](https://github.com/SubhashriRavichandran10/command-line-arguments-to-count-word/assets/145743413/11999d7e-b8ca-4f05-8b48-5b3369232966)
 
 
